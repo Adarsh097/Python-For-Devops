@@ -6,3 +6,5 @@ if substring in text:
 
 if "DevOps" not in text:
     print("DevOps not found in the text")
+
+print(text[0:6])  # Output: Python
